@@ -10,7 +10,7 @@ https://www.aclweb.org/anthology/2020.aacl-demo.7.pdf
 
 Label Representations in Modeling Classification as Text Generation
 Video link
-https://youtu.be/-tQtKbvAu08
+https://youtu.be/zTQlFjj-zag
 Slide Link
 https://docs.google.com/presentation/d/128ITZZm_O1cBkK96cjBaDoSmAHUR6q9fjjj_aLToVaY/edit#slide=id.gb2570f5476_0_36
 Paper link
